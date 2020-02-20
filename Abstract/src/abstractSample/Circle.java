@@ -14,6 +14,8 @@ public class Circle extends Shape
 		// TODO Auto-generated method stub
 		double areaCircle=pi*Math.pow(radius, 2);
 		System.out.println("Circle Radius : "+areaCircle);
+		System.out.println("this is line 1");
+		System.out.println("this is line 3");
 		return areaCircle;
 	}
 
