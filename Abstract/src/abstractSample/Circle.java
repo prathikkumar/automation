@@ -16,6 +16,9 @@ public class Circle extends Shape
 		System.out.println("Circle Radius : "+areaCircle);
 		System.out.println("this is line 1");
 		System.out.println("this is line 3");
+		System.out.println("this is line 4");
+		System.out.println("this is line 5");
+		System.out.println("this is line 6");
 		return areaCircle;
 	}
 
